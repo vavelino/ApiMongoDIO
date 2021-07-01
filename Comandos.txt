@@ -1,0 +1,2 @@
+Instalar Mongo Db Drive
+dotnet add package MongoDB.Driver
